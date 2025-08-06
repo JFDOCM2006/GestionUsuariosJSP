@@ -1,0 +1,1 @@
+<jsp:forward page="UsuarioServlet?accion=listar" />

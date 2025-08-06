@@ -1,0 +1,4 @@
+com\ejemplo\registrousuariosweb\dao\UsuarioDAO.class
+com\ejemplo\registrousuariosweb\util\ConexionBD.class
+com\ejemplo\registrousuariosweb\controlador\UsuarioServlet.class
+com\ejemplo\registrousuariosweb\modelo\Usuario.class
